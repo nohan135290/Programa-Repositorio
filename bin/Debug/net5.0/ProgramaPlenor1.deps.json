@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ProgramaPlenor1/1.0.0": {
+        "runtime": {
+          "ProgramaPlenor1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProgramaPlenor1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

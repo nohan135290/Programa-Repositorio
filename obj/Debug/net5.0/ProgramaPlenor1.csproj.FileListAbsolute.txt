@@ -1,0 +1,16 @@
+C:\Users\Nohan\source\repos\ProgramaPlenor1\bin\Debug\net5.0\ProgramaPlenor1.exe
+C:\Users\Nohan\source\repos\ProgramaPlenor1\bin\Debug\net5.0\ProgramaPlenor1.deps.json
+C:\Users\Nohan\source\repos\ProgramaPlenor1\bin\Debug\net5.0\ProgramaPlenor1.runtimeconfig.json
+C:\Users\Nohan\source\repos\ProgramaPlenor1\bin\Debug\net5.0\ProgramaPlenor1.runtimeconfig.dev.json
+C:\Users\Nohan\source\repos\ProgramaPlenor1\bin\Debug\net5.0\ProgramaPlenor1.dll
+C:\Users\Nohan\source\repos\ProgramaPlenor1\bin\Debug\net5.0\ref\ProgramaPlenor1.dll
+C:\Users\Nohan\source\repos\ProgramaPlenor1\bin\Debug\net5.0\ProgramaPlenor1.pdb
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.csproj.AssemblyReference.cache
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.AssemblyInfoInputs.cache
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.AssemblyInfo.cs
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.csproj.CoreCompileInputs.cache
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.dll
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ref\ProgramaPlenor1.dll
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.pdb
+C:\Users\Nohan\source\repos\ProgramaPlenor1\obj\Debug\net5.0\ProgramaPlenor1.genruntimeconfig.cache
